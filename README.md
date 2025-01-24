@@ -38,7 +38,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://www.icegif.com/wp-content/uploads/2024/09/anime-icegif-7.gif"  />
 
 ###
 
@@ -49,7 +49,5 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/De1p0/De1p0/output/snake.svg" alt="Snake animation" />
 
 ###
