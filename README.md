@@ -1,4 +1,5 @@
 # hello.
+![](https://komarev.com/ghpvc/?username=De1p0&style=flat-square)
 
 ## Projects
 
